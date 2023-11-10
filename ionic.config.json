@@ -1,0 +1,7 @@
+{
+  "name": "CAEmprise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
